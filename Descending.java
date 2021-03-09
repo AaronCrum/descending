@@ -1,8 +1,5 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Homework 4
- *  Description: Write a program to sort three given numbers in descending order.
+ *  Description: Write a program to sort three given numbers in descending order
 */
 
 import java.util.Scanner;
